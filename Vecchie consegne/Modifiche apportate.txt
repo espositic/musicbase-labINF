@@ -1,0 +1,14 @@
+FILE SUDDIVISIONE DEI MODULI
+Il file riguardante la suddivisione dei moduli è stato aggiornato con l'aggiunta delle nuove funzioni di output, (StampaListaBrani ecc...).
+Inoltre sono state specificate le funzioni di ricerca, alle quali ci si è dimenticati di modificare il nome, ed è rimasto quello delle Specifiche.
+
+PSEUDOCODICE
+Sono state aggiunte nuove funzioni al modulo di output:
+StampaListaBrani()
+StampaListaPlaylist()
+StampaListaUtenti()
+StampaListaArtisti()
+StampaListaAlbum() 
+queste funzioni servivano a dare un output alle funzioni di ricerca.
+E' stata modificata radicalmente la funzione di Login() all'interno del modulo utente.
+Infine ci sono state piccole modifiche alle funzioni di modifica e cancellazione.
